@@ -1,0 +1,2 @@
+# tinaya
+computer science
